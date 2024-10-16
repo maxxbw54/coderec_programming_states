@@ -2,3 +2,12 @@
 /data_old
 /ignored
 *.pyc
+
+study_data/
+
+tree-sitter-python/
+
+copilot_study_data.zip
+
+
+venv/
